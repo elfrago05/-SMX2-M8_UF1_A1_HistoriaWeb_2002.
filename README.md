@@ -4,7 +4,7 @@ Fecha de creación 3 de Marzo de 2006
 
 ## Definición
 
-Amazon Web Services (AWS) es una plataforma que se encunetra en la nube y segun unos datos es la mas completa en el mundo, ofrece más de 200 servicios integrales de centros de datos a nivel global. 
+Amazon Web Services (AWS) es una plataforma que se encuentra en la nube y segun unos datos es la mas completa en el mundo, ofrece más de 200 servicios integrales de centros de datos a nivel global. 
 
 AWS está situado en 18 Regiones geográficas: región y número de zonas de disponibilidad
 
